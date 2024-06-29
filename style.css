@@ -1,0 +1,73 @@
+.titre
+{
+    text-align: center;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.menu
+{
+text-align: center;
+font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+list-style-type: none;
+  font-style: normal;
+
+
+}
+
+.menutype
+{
+    display: inline-flex;
+    list-style-type: none;
+   text-align: center;
+    text-align: center;
+    margin-right: 10px;
+
+  
+}
+
+.one
+{
+    margin-right: 50px;
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+.two
+{
+    margin-inline: 10px;
+    text-decoration: none;
+    color: black;
+}
+.three
+{
+    margin-left: 50px;
+    text-decoration: none;
+    color: black;
+}
+
+.entete
+{
+background-image: url(/image/mae-mu-_C5zsV_p-YI-unsplash.jpg);
+background-position: right;
+background-size: cover;
+}
+
+.footer1
+{
+    background-image: url(/image/mae-mu-_C5zsV_p-YI-unsplash.jpg);
+    background-size: cover;
+    margin-top: 180px;
+    text-align: center;
+    background-position: bottom;
+}
+
+.texte
+{
+    text-align: center;
+}
+
+
+    
